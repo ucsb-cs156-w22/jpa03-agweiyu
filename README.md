@@ -1,5 +1,7 @@
 # jpa03-agweiyu
 
+Repo: https://github.com/ucsb-cs156-w22/jpa03-agweiyu
+
 Storybook is here:
 
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-agweiyu-docs/storybook>
