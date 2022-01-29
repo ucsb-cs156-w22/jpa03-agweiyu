@@ -1,5 +1,7 @@
 # jpa03-agweiyu
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-agweiyu/branch/main/graph/badge.svg?token=U1LdaGFT5A)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-agweiyu)
+
 Repo: https://github.com/ucsb-cs156-w22/jpa03-agweiyu
 
 Storybook is here:
